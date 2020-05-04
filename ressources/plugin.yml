@@ -1,0 +1,11 @@
+name: Report
+author: Dams333
+version: 1.0.0
+main: ch.dams333.report.Report
+commands:
+  report:
+    permission: report.report
+    description: Permet de report un joueur
+  list:
+    permission: report.modo
+    description: Permet aux modos de voit les reports d'un joueur
